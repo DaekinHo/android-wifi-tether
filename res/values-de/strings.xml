@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="global_application_name">WiFi Tether</string>
+	<string name="global_application_name">WiFi Tether - Eclipse Mod</string>
 	<string name="global_application_installed">Programm- und Konfigurationsdateien installiert!</string>
 	<string name="global_application_error_restartsecwifi">"Fehler beim Neustart (Sicherheitseinstellungen)!"</string>
     <string name="global_application_tethering_running"><![CDATA[Tethering ist aktiviert...]]></string>

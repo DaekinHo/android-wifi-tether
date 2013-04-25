@@ -50,7 +50,7 @@ public class TetherApplication extends Application {
 	// See private void openAboutDialog() in TetherApplication.java
 	public static final String AUTHORS = "<HTML><a href=\"https://plus.google.com/u/0/107088765107518450541\">Harald M&uuml;ller</a>, Sofia Lemons, Ben Buxton, Andrew Robinson, <a href=\"http://sirgatez.blogspot.com\">Joshua Briefman</a>, <a href=\"http://androidsecuritytest.com\">Trevor Eckhart</a></HTML>";
 
-	public final String DEFAULT_PASSPHRASE = "abcdefghijklm";
+	public final String DEFAULT_PASSPHRASE = "Ecl1ps3T3th3r";
 	public final String DEFAULT_LANNETWORK = "192.168.2.0/24";
 	public final String DEFAULT_ENCSETUP   = "wpa_supplicant";
 	

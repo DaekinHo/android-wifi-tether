@@ -96,7 +96,7 @@ public class SetupActivity extends PreferenceActivity implements OnSharedPrefere
         // Init CurrentSettings
         this.currentDevice = this.application.settings.getString("devicepref", "auto");
         this.currentSetup = this.application.settings.getString("setuppref", "auto");
-        this.currentSSID = this.application.settings.getString("ssidpref", "AndroidTether"); 
+        this.currentSSID = this.application.settings.getString("ssidpref", "EclipseTether"); 
         this.currentChannel = this.application.settings.getString("channelpref", "1");
         this.currentPassphrase = this.application.settings.getString("passphrasepref", this.application.DEFAULT_PASSPHRASE);
         this.currentLAN = this.application.settings.getString("lannetworkpref", this.application.DEFAULT_LANNETWORK);

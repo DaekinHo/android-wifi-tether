@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="global_application_name">WiFi Tether</string>
+	<string name="global_application_name">WiFi Tether - Eclipse Mod</string>
 	<string name="global_application_installed">Binari e file di configurazione installati!</string>
 	<string name="global_application_error_restartsecwifi">Impossibile riavviare wifi protetta!</string>
 	<string name="global_application_tethering_running"><![CDATA[Tethering attivo ...]]></string>

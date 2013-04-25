@@ -153,7 +153,7 @@ public class Configuration {
 	private static String wifiFinalLoadCmd = "none";
 	
 	public Configuration() {
-		this.device = android.os.Build.DEVICE; //NativeTask.getProp("ro.product.device");
+		this.device = DEVICE_PASSION; // Overrides: android.os.Build.DEVICE; //NativeTask.getProp("ro.product.device");
 		this.sdk = android.os.Build.VERSION.SDK_INT; //Integer.parseInt(NativeTask.getProp("ro.build.version.sdk"));
 		Log.d(MSG_TAG, "Device [ Model / SDK ] *Auto_Detected*: " + this.device + " / " + this.sdk);
 		this.setupDevice();

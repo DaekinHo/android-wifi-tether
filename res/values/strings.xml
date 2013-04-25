@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="global_application_name">WiFi Tether- TrevE Mod</string>
+	<string name="global_application_name">WiFi Tether - Eclipse Mod</string>
 	<string name="global_application_installed">Binaries and config-files installed!</string>
 	<string name="global_application_error_restartsecwifi">Unable to restart secured wifi!</string>
 	<string name="global_application_tethering_running">Tethering is currently running ...</string>
